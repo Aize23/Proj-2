@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Startscreen.unity
+    guid: c36bcac6f792af74ebd89b8589d2eb90
+  - enabled: 1
+    path: Assets/Scenes/Fail Overlay.unity
+    guid: bae9bae2b896ddb45b402e445588a3af
+  - enabled: 1
+    path: Assets/Scenes/SetupTest.unity
+    guid: da309a7dc7339fa4b8e8b2636b6ccbd5
+  - enabled: 1
+    path: Assets/Scenes/Lv2.unity
+    guid: dc54c09962584b6418de525236b010d1
+  - enabled: 1
+    path: Assets/Scenes/Lv3.unity
+    guid: 63fcc153692cb8140b24f632e577fe37
+  - enabled: 1
+    path: Assets/Scenes/Lv4.unity
+    guid: 4b84fa4a9320c1941ac7168d16bbe293
+  - enabled: 1
+    path: Assets/Scenes/Endscreen.unity
+    guid: 4138ec12eeea9b444bb3a708e7496b06
   m_configObjects: {}
